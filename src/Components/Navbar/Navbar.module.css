@@ -1,0 +1,9 @@
+img{
+    width: 8%;
+}
+nav{
+    background-color: var(--main-color);
+}
+.nav{
+    width: 35%;
+}
